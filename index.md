@@ -7,6 +7,7 @@ layout: default
 # Welcome to My Website
 
 Hi! My name is **Sanaa Elbehairy**, and I’m currently studying at the **University of Helsinki**.  
+
 I’m passionate about **Linguistics**, **Languages**, and **Language technology**,  exploring how computational tools can develop language acquistion.  
 
 Outside of my studies, I enjoy **reading**, **hiking**, and experimenting with **baking**.  

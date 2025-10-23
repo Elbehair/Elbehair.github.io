@@ -4,7 +4,9 @@ layout: default
 # Command-Line Course
 
 Welcome to my **Command-Line Tools** course summary!  
+
 This page highlights what I learned in each module — from basic Unix commands to building and deploying a website with Jekyll and GitHub Pages.  
+
 I gained efficiency in the command-line by learning an extensive suite of tools for tasks like scripting, managing software, and processing text.
 
 ---
@@ -78,7 +80,7 @@ I can now write simple scripts to automate many commands at once, which makes co
 
 ## Module 4: Using ssh, scp and Version Control
 
-This module introduces version control, a fundamental practice for all projects. This system is essential for reverting to past work and for coordinating changes when multiple people are working together. We will explore the most popular tools in this space: the version control system **_Git_** and its primary host platform,** _GitHub_**.  
+This module introduces version control, a fundamental practice for all projects. This system is essential for reverting to past work and for coordinating changes when multiple people are working together. We will explore the most popular tools in this space: the version control system **_Git_** and its primary host platform,**_GitHub_**.  
 
 ```bash
 $ scp examplefile yourusername@yourserver:/home/yourusername/
@@ -93,6 +95,7 @@ Command | Description
 `git commit -m "message"`| commit files
 `git push origin main`| Upload changes to GitHub
 
+![Git](https://www.explainxkcd.com/wiki/images/4/4d/git.png)
 
 I learnt how to manage running programs (processes) and how to connect and securely copy files to and from remote servers.I successfully set up Git and GitHub, mastering the workflow of saving, committing, and uploading my project changes online. I can now use branches to manage separate features and confidently undo mistakes by reverting my code to an earlier version.  
 
