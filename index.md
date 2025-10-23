@@ -10,6 +10,7 @@ Hi! My name is **Sanaa Elbehairy**, and I’m currently studying at the **Univer
 I’m passionate about **Linguistics**, **Languages**, and **Language technology**,  exploring how computational tools can develop language acquistion.  
 
 Outside of my studies, I enjoy **reading**, **hiking**, and experimenting with **baking**.  
+
 This website showcases my projects, coursework, and reflections on what I’ve learned.
 
 
@@ -46,14 +47,14 @@ My email address is sanaa.elbehairy@helsinki.fi.
 
 1. **Sociolinguistics Project**
 
-  A toy project for the sociolinguistics course about _Attitudes of Telugu speakers towards Hindi as an official language 
-of India_, you can have a [look at the survey](https://redcap.helsinki.fi/redcap/surveys/?s=W4PNYCTLDPXXYW7R)
+     A toy project for the sociolinguistics course about _Attitudes of Telugu speakers towards Hindi as an official language 
+of India_, you can have a [look at the survey](https://redcap.helsinki.fi/redcap/surveys/?s=W4PNYCTLDPXXYW7R)  
 
-  This study examines the language attitudes of native Telugu speakers towards Hindi in the context of the Indian education system, with a specific focus on how these views are  shaped by regional identity, linguistic hierarchies and socio-political factors.
+     This study examines the language attitudes of native Telugu speakers towards Hindi in the context of the Indian education system, with a specific focus on how these views are  shaped by regional identity, linguistic hierarchies and socio-political factors.
 
 2. **Command-line tools Project** 
 
-  Building my own website and publishing it on Github pages, you can check it [here](https://elbehair.github.io/).
+    Building my own website and publishing it on Github pages, you can check it [here](https://elbehair.github.io/).
 
 
 ## Misc. 
