@@ -59,6 +59,8 @@ By the end of this module, I now have a clear understanding of character encodin
 
 we  learnt to create and use scripts to automate complex tasks, moving beyond individual commands. We were also introduced to the crucial concept of UNIX environment variables to control system behavior. Finally, we set up our own configuration file to easily manage and maintain our custom system settings.  
 
+![Git](https://www.explainxkcd.com/wiki/images/4/49/universal_install_script.png)
+
 In the following code, we create a bash script that takes one argument, an English adjective and prints its comparative form.
 
 ```bash
@@ -95,7 +97,6 @@ Command | Description
 `git commit -m "message"`| commit files
 `git push origin main`| Upload changes to GitHub
 
-![Git](https://www.explainxkcd.com/wiki/images/4/4d/git.png)
 
 I learnt how to manage running programs (processes) and how to connect and securely copy files to and from remote servers.I successfully set up Git and GitHub, mastering the workflow of saving, committing, and uploading my project changes online. I can now use branches to manage separate features and confidently undo mistakes by reverting my code to an earlier version.  
 
