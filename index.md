@@ -57,6 +57,9 @@ of India_, you can have a [look at the survey](https://redcap.helsinki.fi/redcap
 
     Building my own website and publishing it on Github pages, you can check it [here](https://elbehair.github.io/).
 
+## CV
+
+[Download My CV](assets/documents/CV_Sanaa_Elbehairy_English.pdf)
 
 ## Misc. 
 
