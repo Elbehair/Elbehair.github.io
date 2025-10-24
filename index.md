@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
+# Welcome to My Website
 
 ## Introduction
 
-# Welcome to My Website
-
 Hi! My name is **Sanaa Elbehairy**, and I’m currently studying at the **University of Helsinki**.  
 
-I’m passionate about **Linguistics**, **Languages**, and **Language technology**,  exploring how computational tools can develop language acquistion.  
+I’m passionate about _Linguistics_, _Languages_, and _Language technology_,  exploring how computational tools can develop language acquistion.  
 
-Outside of my studies, I enjoy **reading**, **hiking**, and experimenting with **baking**.  
+Outside of my studies, I enjoy _reading_, _hiking and running_, and experimenting with _baking_.  
 
 This website showcases my projects, coursework, and reflections on what I’ve learned.
 
